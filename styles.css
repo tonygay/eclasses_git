@@ -1,4 +1,3 @@
-/******** hotfix change ************/
 /* changes made for use in the testing branch */
 /* 2nd changes for the testing branch */
 
@@ -61,3 +60,5 @@ img { border: 0px;}
 display: block; height: 0; visibility: hidden;}
 .clearfix:after { clear: both; }
 .clearfix { zoom: 1; }
+
+/* testing for merge with master branch */
